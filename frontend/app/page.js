@@ -1,0 +1,10 @@
+import ListNote from "./ListNote/page";
+
+export default function Home() {
+  return (
+    <main className="p-10">
+     
+      <ListNote />
+    </main>
+  );
+}
